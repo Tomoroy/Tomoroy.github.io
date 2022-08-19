@@ -145,3 +145,24 @@ APKMirror商店很多国内用户也用过，这个就不需要多介绍了，�
 Litterbox 单文件限制 1 GB，有时效。
 文件均为直链。可使用 Telegram 机器人 @CatboxUploaderBot 上传。  
 **
+
+#免费SSL证书收集整理汇总列表
+|	服务商	|	证书类型	|	免费周期	|	简要介绍	|
+|	:-:	|	:-:	|	:-:	|	:-:	|
+|	Let’s Encrypt	|	Let’s Encrypt	|	3月/续	|	Let's Encrypt是第一个免费并且开源的CA,且已经获得Mozilla、微软等主要浏览器厂商的根授信，是免费SSL证书中首选，wzfou.com用的SSL就是这家。详细教程：Let’s Encrypt SSL证书。支持免费泛域名证书：Let’s Encrypt 泛域名SSL	|
+|	Cloudflare	|	Comodo	|	自动续期	|	CloudFlare推出的UniversalSSL功能,向所有CloudFlare用户(包括免费用户)提供SSL加密功能，前提你需要使用他们家的CDN。参考：CloudFlare免费SSL	|
+|	FreeSSL.cn	|	Let's Encrypt	|	3月/续	|	国人开办的，提供 Let’s Encrypt 与 TrustAsia CA 的免费 HTTPS 证书。中文面板，操作简单。	|
+|		|	TrustAsia CA	|		|		|
+|	SSL For Free	|	Let's Encrypt	|	3月/续	|	基于Let's Encrypt的API开发的可供在线申请Let's Encrypt免费SSL证书的网站。参考：SSL_For_Free	|
+|	zerossl.com	|	zerossl	|	3月/续	|	支持泛域名，每三个月过期所以需要每90天内更新一次证书，保留scr，以后申请就不需要验证了。ZeroSSL支持纯IP申请SSL证书：ZeroSSL IP SSL。详细教程：ZeroSSL免费SSL证书申请与使用。	|
+|	GoGetSSL	|	Comodo	|	3月/续	|	Comodo官方提供的免费SSL证书，支持RSA和ECC。可以在Comodo官网或GoGetSSL申请到。默认保护@与www，不支持通配符。3个月有效期，到期可以续签。	|
+|	阿里云SSL	|	DigiCert	|	1年/续	|	阿里云与天威诚信推出了基于Symantec（赛门铁克）的免费SSL证书。参考：阿里云	|
+|	腾讯云SSL	|	DigiCert	|	1年/续	|	腾讯云与赛门铁克合作推出了免费的TrustAsia DV SSL证书。参考：腾讯云	|
+|	又拍云SSL	|	Let's Encrypt	|	3月/续	|	又拍云携手 TrustAsia 、 Let’s Encrypt， 推出免费DV SSL 证书的申请，证书到期会自动续签。参考：又拍云	|
+|		|	TrustAsia CA	|		|		|
+|	AWS免费SSL	|	Amazon	|	自动续期	|	通过 AWS Certificate Manager 预置的 SSL/TLS 证书可免费使用。您只需为您创建的用于运行应用程序的 AWS 资源付费。参考：AWS免费VPS	|
+|	Buypass	|	Buypass Go	|	3月/续	|	Buypass Go SSL提供了类似于Let’s Encrypt免费SSL的ACME和Certbot自动签发工具，你可以自己的VPS主机或者服务器轻松地部署Buypass Go SSL。参考：Buypass Go SSL免费SSL	|
+|	七牛云SSL	|	TrustAsia	|	1年/续	|	七牛联合TrustAsia推出免费SSL证书，仅限七牛产品使用。参考：七牛云	|
+|	百度云SSL	|	Symantec	|	自动续期	|	百度云联合Symantec（赛门铁克）推出DV免费版本证书，仅限百度云产品使用。参考：百度云	|
+|	360网站卫士SSL	|	Symantec	|	自动续期	|	360网站卫士如果要使用免费SSL证书必须得实名认证，且需要使用360的CDN。	|
+|	Lookssl.com	|	Certum	|	1年/续	|	Root CA 1年期免费证书,只支持单域名(WWW与根域名)，不支持添加扩展域名。提供DNS、文件、邮箱三种灵活的验证方式，您也可以在服务管理页面随时更换验证方式。	|  
