@@ -1,4 +1,4 @@
-# 打造平果人工具（白嫖）箱
+# 平果突🐔小分队
 
 # 视频解析，仅供学习使用。
 [	纯净/B站	](	https://z1.m1907.cn/?jx=	)
@@ -121,7 +121,8 @@ bot：@apkdl_bot
 APKMirror商店很多国内用户也用过，这个就不需要多介绍了，可能是最好的替代Play商店应用之一，不过国内访问速度较慢也是个问题。
 <br>
 [9Apps](https://www.9apps.com/)  
-***  
+********** 
+
 [在线之家](https://www.zxzjtv.com/)
 <br>
 [低端影视](https://ddrk.me/)
@@ -131,18 +132,18 @@ APKMirror商店很多国内用户也用过，这个就不需要多介绍了，�
 [555vip](https://555dy.vip/)
 <br>
 很多很多------
-***  
 <br>
-1. [路过图床](https://imgtu.com)
+
+- [路过图床](https://imgtu.com)
 高速稳定，单图最大 10 MB
-2. [ImgURL](https://imgurl.org)
+- [ImgURL](https://imgurl.org)
 游客每日限 10 次上传，单图最大 5 MB
-3. [SM.MS](https://sm.ms)
+- [SM.MS](https://sm.ms)
 老牌图床，现在游客禁止上传，普通用户单图最大 5 MB， 5 GB 存储空间
-4. [KinhPicture](https://img.kinh.cc)
+- [KinhPicture](https://img.kinh.cc)
 岛主的聚合图床，支持阿里、百度、AWS S3 等 15 个接口，单图限制 2 ~ 32 MB
-5. [Catbox](https://catbox.moe/) & Litterbox
+- [Catbox](https://catbox.moe/) & Litterbox
 (https://litterbox.catbox.moe/)Catbox 单文件限制 200 MB，永久保存；
 Litterbox 单文件限制 1 GB，有时效。
 文件均为直链。可使用 Telegram 机器人 @CatboxUploaderBot 上传。  
-**
+
