@@ -1,6 +1,6 @@
 # 平果突🐔小分队
 
-[**点击有惊喜，每次都不同**](https://api.btstu.cn/sjbz/?lx=caihong)
+[**点击有惊喜，每次都不同**](https://api.btstu.cn/sjbz/?lx=xinggan)
 
 # 视频解析，仅供学习使用。
 [	纯净/B站	](	https://z1.m1907.cn/?jx=	)
