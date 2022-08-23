@@ -1,6 +1,6 @@
 # 平果突🐔小分队
 
-###[**点击有惊喜，每次都不同**](https://api.btstu.cn/sjbz/?lx=xinggan)
+### [**点击有惊喜，每次都不同**](https://api.btstu.cn/sjbz/?lx=xinggan)
 
 ## [视频解析](https://github.com/Tomoroy/blog/issues/1#issue-1347628469)
 ## [图片API接口](https://github.com/Tomoroy/blog/issues/2#issue-1347633318)
